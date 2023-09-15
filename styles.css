@@ -8,6 +8,7 @@ header{
     background-color: #011e29;
     padding: 20px;
     color: white;
+	text-align:center;
 }
 header>h1{
     text-align: center;
@@ -28,6 +29,7 @@ header>h1{
 .pictorial-news-section{
     width: 180px;
     padding: 5px;
+	text-align:center;
 }
 .pictorial-news-section>img{
     width: 150px;
